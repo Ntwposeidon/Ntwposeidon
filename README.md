@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Instagram de uso pessoal, youtube antigo.
  
 <div> 
   <a href="https://www.youtube.com/@jhonatanvasconcelos4820" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
